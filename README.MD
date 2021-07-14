@@ -267,3 +267,5 @@ Now that our custom user model is configured you can easily and at any time add 
 
 You can also check out DjangoX, which is an open-source Django starter framework that includes a custom user model, email/password by default instead of username/email/password, social authentication, and more.
 
+thx for odai that help me in the tests
+
